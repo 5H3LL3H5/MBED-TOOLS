@@ -1,0 +1,40 @@
+{ Using PSTWRITER 16.6.0 d001Dec-05-2017 at 19:13:32 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.20" ignored for U1: SCH, 02 MCU (43.18, 17.78). Connecting pin to net "F_CS".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.24" ignored for U1: SCH, 02 MCU (43.18, 17.78). Connecting pin to net "KEY0".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.44" ignored for U1: SCH, 02 MCU (43.18, 17.78). Connecting pin to net "CTL_BEEP".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.2" ignored for USB1: SCH, 02 MCU (236.22, 233.68). Connecting pin to net "CH340_D-".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.15" ignored for U1: SCH, 02 MCU (43.18, 17.78). Connecting pin to net "WORK_VOLT".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.3" ignored for U4: SCH, 02 MCU (289.56, 73.66). Connecting pin to net "WORK_CURR".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.4" ignored for U4: SCH, 02 MCU (289.56, 73.66). Connecting pin to net "WORK_CURR".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.1" ignored for U10: SCH, 02 MCU (124.46, 182.88). Connecting pin to net "GND".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.2" ignored for U10: SCH, 02 MCU (124.46, 182.88). Connecting pin to net "GND".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.3" ignored for U10: SCH, 02 MCU (124.46, 182.88). Connecting pin to net "GND".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.9" ignored for U13: SCH, 02 MCU (157.48, 256.54). Connecting pin to net "GND".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.10" ignored for U13: SCH, 02 MCU (157.48, 256.54). Connecting pin to net "GND".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.11" ignored for U13: SCH, 02 MCU (157.48, 256.54). Connecting pin to net "GND".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.12" ignored for U13: SCH, 02 MCU (157.48, 256.54). Connecting pin to net "GND".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.13" ignored for U13: SCH, 02 MCU (157.48, 256.54). Connecting pin to net "GND".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.45" ignored for U1: SCH, 02 MCU (43.18, 17.78). Connecting pin to net "KEY2".
+#17 WARNING(ORCAP-36006): Part Name "CONN RCPT 3X2_HEADER3X2_2R54_HEADER3X2_2R54" is renamed to "CONN RCPT 3X2_HEADER3X2_2R54_HE".
+#18 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_L-SLF6028_SLF6028T-4R7M1R6-PF" is renamed to "INDUCTOR_0_L-SLF6028_SLF6028T-4".
+#19 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_LC08".
+#20 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_SW-6X6X6-L_SWITCH" is renamed to "SWITCH-SPST-4P_SW-6X6X6-L_SWITC".
+#21 WARNING(ORCAP-36006): Part Name "STM32F103RXT6_LQFP-64_STM32F103RXT6" is renamed to "STM32F103RXT6_LQFP-64_STM32F103".
+#22 WARNING(ORCAP-36006): Part Name "74AHC1G08_1_SOT23-5_INA193AIDBVT" is renamed to "74AHC1G08_1_SOT23-5_INA193AIDBV".
+#23 WARNING(ORCAP-36006): Part Name "NUP2202W1_D_2_SC-88_NUP4202W1T2G" is renamed to "NUP2202W1_D_2_SC-88_NUP4202W1T2".
+#24 WARNING(ORCAP-36006): Part Name "MP2359DJ-LF-Z_TSOT23-6_MP2459GJ-Z" is renamed to "MP2359DJ-LF-Z_TSOT23-6_MP2459GJ".
+#25 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#26 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-3R2X1R5-SMD_XTAL_32768HZ_3215" is renamed to "XTAL_5032_0_X-2P-3R2X1R5-SMD_XT".
+#27 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-5R0X3R2-SMD_XTAL_8MHZ_5032" is renamed to "XTAL_5032_0_X-2P-5R0X3R2-SMD_XT".
+#28 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-5R0X3R2-SMD_XTAL_12MHZ_5032" is renamed to "XTAL_5032_0_X-2P-5R0X3R2-SMD__1".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\GITHUB\CURRENT-SHUNT-MONITORS\HARDWARE\INA193_TEST_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\GITHUB\CURRENT-SHUNT-MONITORS\HARDWARE\INA193_TEST_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\GITHUB\CURRENT-SHUNT-MONITORS\HARDWARE\INA193_TEST_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... H:\GITHUB\CURRENT-SHUNT-MONITORS\HARDWARE\INA193_TEST_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
