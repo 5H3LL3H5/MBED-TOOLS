@@ -1,0 +1,29 @@
+{ Using PSTWRITER 17.2.0 d001Mar-27-2018 at 11:17:44 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.2" ignored for JP2: F5528, 02 EZFET (220.98, 185.42). Connecting pin to net "VCC_TOOL".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.10" ignored for JP2: F5528, 02 EZFET (220.98, 185.42). Connecting pin to net "T_UART_RTS".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.12" ignored for JP2: F5528, 02 EZFET (220.98, 185.42). Connecting pin to net "T_UART_RXD".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.3" ignored for U3: F5528, 02 EZFET (73.66, 246.38). Connecting pin to net "EZFET_DP".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.4" ignored for U3: F5528, 02 EZFET (73.66, 246.38). Connecting pin to net "EZFET_DP".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.13" ignored for JP2: F5528, 02 EZFET (220.98, 185.42). Connecting pin to net "T_UART_CTS".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.8" ignored for JP2: F5528, 02 EZFET (220.98, 185.42). Connecting pin to net "T_TEST_TCKC".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "JP2.14" ignored for JP2: F5528, 02 EZFET (220.98, 185.42). Connecting pin to net "T_UART_TXD".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.43" ignored for U1: F5528, 02 EZFET (78.74, 58.42). Connecting pin to net "N16729632".
+INFO(ORCAP-36102): Diff Pair DRC check Warnings:
+INFO(ORCAP-17055): Differential pair DP1 has only one net EZFET_DM associated with it. A valid differential pair must have two nets associated with it. 
+
+#10 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_HEADER4X1_2R54_HEADER4X1_2R54/NI" is renamed to "CONN RCPT 4_HEADER4X1_2R54_HEAD".
+#11 WARNING(ORCAP-36006): Part Name "MSP430F5528IRGC_VQFN-64_MSP430F5528IRGC" is renamed to "MSP430F5528IRGC_VQFN-64_MSP430F".
+#12 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#13 WARNING(ORCAP-36006): Part Name "NUP2202W1_D_2_SC-88_NUP4202W1T2G" is renamed to "NUP2202W1_D_2_SC-88_NUP4202W1T2".
+#14 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCR4M00G53" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\GitHub\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\allegro/pstchip.dat
+
+Loading... H:\GitHub\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\allegro/pstchip.dat
+
+Loading... H:\GitHub\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\allegro/pstxprt.dat
+
+Loading... H:\GitHub\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\allegro/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,20 @@
+Date and Time : 03/27/18 11:16:54
+
+--------------------------------------------------
+Checking Schematic: F5528
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections EZFET_TCK 
+                    F5528, 02 EZFET  (104.14, 55.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections EZFET_TMS 
+                    F5528, 02 EZFET  (106.68, 45.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections EZFET_TDO 
+                    F5528, 02 EZFET  (111.76, 40.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections EZFET_TDI 
+                    F5528, 02 EZFET  (109.22, 43.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections T_NC_TMSC 
+                    F5528, 02 EZFET  (223.52, 93.98) 
+
+Checking For Unconnected Bus Nets
