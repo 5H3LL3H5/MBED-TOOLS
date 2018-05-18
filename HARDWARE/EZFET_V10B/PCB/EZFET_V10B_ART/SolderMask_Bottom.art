@@ -1,9 +1,9 @@
 G04 ================== begin FILE IDENTIFICATION RECORD ==================*
-G04 Layout Name:  H:/GitHub/MBED-TOOLS/HARDWARE/EZFET_V10B/PCB/EZFET_V10B.brd*
+G04 Layout Name:  H:/MBED-TOOLS/HARDWARE/EZFET_V10B/PCB/EZFET_V10B.brd*
 G04 Film Name:    SolderMask_Bottom*
 G04 File Format:  Gerber RS274X*
-G04 File Origin:  Cadence Allegro 17.2-S033*
-G04 Origin Date:  Tue Mar 27 14:50:14 2018*
+G04 File Origin:  Cadence Allegro 17.2-S037*
+G04 Origin Date:  Fri May 18 10:52:10 2018*
 G04 *
 G04 Layer:  BOARD GEOMETRY/OUTLINE*
 G04 Layer:  PIN/SOLDERMASK_BOTTOM*

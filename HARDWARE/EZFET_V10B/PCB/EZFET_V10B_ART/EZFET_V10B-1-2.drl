@@ -8,7 +8,7 @@ T05C2.3
 ;LEADER: 12 
 ;HEADER: 
 ;CODE  : ASCII 
-;FILE  : EZFET_V10B-1-2.drl for board H:/GitHub/MBED-TOOLS/HARDWARE/EZFET_V10B/PCB/#Taaaace02300.tmp ... layers TOP and BOTTOM
+;FILE  : EZFET_V10B-1-2.drl for board H:/MBED-TOOLS/HARDWARE/EZFET_V10B/PCB/#Taaaaan04600.tmp ... layers TOP and BOTTOM
 ;T01 Holesize 1. = 0.304800 Tolerance = +0.000000/-0.000000 PLATED MM Quantity = 92
 ;T02 Holesize 2. = 0.457200 Tolerance = +0.000000/-0.000000 PLATED MM Quantity = 5
 ;T03 Holesize 3. = 0.889000 Tolerance = +0.000000/-0.000000 PLATED MM Quantity = 18

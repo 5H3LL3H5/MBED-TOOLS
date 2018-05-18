@@ -483,7 +483,7 @@ LINE          0.1778            D486
 LINE           0.635            D487
 LINE            0.25            D488
 LINE            0.05            D489
-LINE          0.7112            D490
-LINE           0.762            D491
+LINE           0.762            D490
+LINE          0.7112            D491
 LINE           0.508            D492
 

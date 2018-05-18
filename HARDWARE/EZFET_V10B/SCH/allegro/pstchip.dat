@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Mar-27-2018 at 11:17:45}
+{ Using PSTWRITER 17.2.0 d001May-18-2018 at 10:46:54}
 primitive 'CAP NP_CC0603_0.1UF_50V';
   pin
     '1':
@@ -654,7 +654,7 @@ primitive 'USB-B_USB-B_USB-B';
     VALUE='USB-B';
   end_body;
 end_primitive;
-primitive 'XTAL_5032_0_X-3P-3R2X1R3-SMD_CS';
+primitive 'XTAL_5032_0_X-3P-4R5X2R0-SMD_CS';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -668,7 +668,7 @@ primitive 'XTAL_5032_0_X-3P-3R2X1R3-SMD_CS';
   end_pin;
   body
     PART_NAME='XTAL_5032_0';
-    JEDEC_TYPE='x-3p-3r2x1r3-smd';
+    JEDEC_TYPE='x-3p-4r5x2r0-smd';
     VALUE='CSTCR4M00G53';
   end_body;
 end_primitive;
