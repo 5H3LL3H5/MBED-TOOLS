@@ -1,0 +1,19 @@
+{ Using PSTWRITER 17.2.0 d001Jun-06-2018 at 10:42:56 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.8" ignored for JP1: P1, 02 EZFET (78.74, 73.66). Connecting pin to net "JTAG_TCK".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.2" ignored for J1: P1, 02 EZFET (78.74, 20.32). Connecting pin to net "VCC_3.3V".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.8" ignored for J1: P1, 02 EZFET (78.74, 20.32). Connecting pin to net "TEST".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.2" ignored for JP1: P1, 02 EZFET (78.74, 73.66). Connecting pin to net "VCC_TOOL".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.14" ignored for J1: P1, 02 EZFET (78.74, 20.32). Connecting pin to net "T_RXD".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.12" ignored for J1: P1, 02 EZFET (78.74, 20.32). Connecting pin to net "T_TXD".
+#7 WARNING(ORCAP-36006): Part Name "JTAG_HEADER7X2_2R54_JTAG_HEADER7X2_2R54" is renamed to "JTAG_HEADER7X2_2R54_JTAG_HEADER".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\MBED-TOOLS\HARDWARE\430DEBUG_ZJ_V10A\SCH\allegro/pstchip.dat
+
+Loading... H:\MBED-TOOLS\HARDWARE\430DEBUG_ZJ_V10A\SCH\allegro/pstchip.dat
+
+Loading... H:\MBED-TOOLS\HARDWARE\430DEBUG_ZJ_V10A\SCH\allegro/pstxprt.dat
+
+Loading... H:\MBED-TOOLS\HARDWARE\430DEBUG_ZJ_V10A\SCH\allegro/pstxnet.dat
+packaging the design view...
