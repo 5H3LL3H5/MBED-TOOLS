@@ -4,12 +4,14 @@
   (Folder "Design Resources"
     (Folder "Library"
       (File "e:\cadencelib\orcad\hyoc.olb"
+        (Type "Schematic Library"))
+      (File "e:\cadencelib\orcad\ic.olb"
         (Type "Schematic Library")))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "H:\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\allegro")
+       "H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -28,7 +30,8 @@
     (NoModify)
     (BOM_Scope "1")
     (BOM_Mode "0")
-    (BOM_Report_File "H:\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\EZFET_V10B.BOM")
+    (BOM_Report_File
+       "H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\GL850_HUB_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Manufacture}")
@@ -64,7 +67,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\GitHub\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\EZFET_V10B.DRC")
+       "H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\GL850_HUB_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -92,10 +95,12 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
-    (File ".\ezfet_v10b.dsn"
-      (Type "Schematic Design")))
+    (File ".\gl850_hub_v10a.dsn"
+      (Type "Schematic Design"))
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
   (Folder "Outputs"
-    (File ".\ezfet_v10b.drc"
+    (File ".\gl850_hub_v10a.drc"
       (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
@@ -106,10 +111,30 @@
     (File ".\allegro\pstchip.dat"
       (Type "Report")
       (DisplayName "pstchip.dat"))
-    (File ".\ezfet_v10b.bom"
+    (File ".\gl850_hub_v10a.bom"
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (GL850G
+      (FullPartName "GL850G.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (DC005
+      (FullPartName "DC005.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (TPS2051BDBVR
+      (FullPartName "TPS2051BDBVR.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (USB-A-DOUBLE
+      (FullPartName "USB-A-DOUBLE.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (TUSB2046BVFR
+      (FullPartName "TUSB2046BVFR.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
     (MSP430F5529IPN
       (FullPartName "MSP430F5529IPN.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
@@ -166,26 +191,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ezfet_v10b.dsn")
-      (Path "Design Resources" ".\ezfet_v10b.dsn" "F5528")
+      (Path "Design Resources" ".\gl850_hub_v10a.dsn")
+      (Path "Design Resources" ".\gl850_hub_v10a.dsn" "USBHUB")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\ezfet_v10b.dsn" "F5528" "02 EZFET"))
+      (Select "Design Resources" ".\gl850_hub_v10a.dsn" "USBHUB" "02 GL850"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 374"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1399 52 641")
-        (Scroll "0 0")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1821 234 853")
+        (Scroll "-133 0")
+        (Zoom "77")
         (Occurrence "/"))
-      (Path "H:\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\EZFET_V10B.DSN")
-      (Schematic "F5528")
-      (Page "02 EZFET")))
+      (Path "H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\GL850_HUB_V10A.DSN")
+      (Schematic "USBHUB")
+      (Page "02 GL850")))
   (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "H:\CadenceLib\xxxlzjxxx"))

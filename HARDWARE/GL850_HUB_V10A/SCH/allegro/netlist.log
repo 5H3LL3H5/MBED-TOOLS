@@ -1,0 +1,17 @@
+{ Using PSTWRITER 17.2.0 d001Feb-12-2019 at 09:09:07 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.18" ignored for U2: USBHUB, 02 GL850 (154.94, 66.04). Connecting pin to net "PGANG".
+#2 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_L0805_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_L080".
+#3 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322512MSB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X3225".
+#4 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#5 WARNING(ORCAP-36006): Part Name "USB-A-DOUBLE_USB-A-DOUBLE_USB-A-DOUBLE" is renamed to "USB-A-DOUBLE_USB-A-DOUBLE_USB-A".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\allegro/pstchip.dat
+
+Loading... H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\allegro/pstchip.dat
+
+Loading... H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\allegro/pstxprt.dat
+
+Loading... H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\allegro/pstxnet.dat
+packaging the design view...
