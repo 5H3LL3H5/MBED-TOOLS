@@ -1,0 +1,17 @@
+{ Using PSTWRITER 17.2.0 d001Jan-25-2019 at 14:02:36 }
+
+#1 WARNING(ORCAP-36006): Part Name "CON2_HEADER2X1-2R54-M_HEADER2X1-2R54-M" is renamed to "CON2_HEADER2X1-2R54-M_HEADER2X1".
+#2 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L10040_SMMS1040-1R5M" is renamed to "IND_BEAD_0805_600OHM_1_L10040_S".
+#3 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04/NI" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#4 WARNING(ORCAP-36006): Part Name "IP5328P_0_QFN40-6X6X0R5-4R6X4R6_IP5328P" is renamed to "IP5328P_0_QFN40-6X6X0R5-4R6X4R6".
+#5 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_USB-MICRO" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_USB-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_IP5328_TEST_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_IP5328_TEST_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_IP5328_TEST_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_IP5328_TEST_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
