@@ -205,9 +205,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1821 234 853")
-        (Scroll "-133 0")
-        (Zoom "77")
+        (Placement "44 2 3 -1 -1 -8 -31 234 981 234 853")
+        (Scroll "3648 1958")
+        (Zoom "480")
         (Occurrence "/"))
       (Path "H:\MBED-TOOLS\HARDWARE\GL850_HUB_V10A\SCH\GL850_HUB_V10A.DSN")
       (Schematic "USBHUB")

@@ -1,82 +1,39 @@
-{ Using PSTWRITER 17.2.0 d001Jul-26-2018 at 18:16:08 }
+{ Using PSTWRITER 17.2.0 d001Sep-17-2019 at 15:27:13 }
 
-#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.128" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "CS".
-#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.77" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "RS".
-#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.126" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "TFT_RESET".
-#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.47" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "CTL_SENSOR".
-#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.58" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "CHARGE_DETECT".
-#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.141" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "TP_DCLK".
-#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.140" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "TP_CS".
-#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.45" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART4_TX".
-#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.46" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART4_RX".
-#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.143" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "TP_DOUT".
-#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.125" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "TP_IRQ".
-#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.104" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "BL".
-#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.32" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "VDDA3V3".
-#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.29" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "S_VOLT".
-#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.27" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "S_CURR".
-#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.33" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "VSSA".
-#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.36" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "C_VOLT".
-#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.35" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "C_CURR".
-#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.23" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "WORK_VOLT".
-#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.22" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "VCC_3.3V".
-#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.42" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "VCC_3.3V".
-#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.7" ignored for U2: MAIN, 03 MCU (43.18, 266.70). Connecting pin to net "CLK_50M_MK60".
-#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.142" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "TP_DIN".
-#24 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.109" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART1_TX".
-#25 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.13" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART5_RD#".
-#26 WARNING(ORCAP-36038): "No_connect" property on Pin "Q14.1" ignored for Q14: MAIN, 07 DCDC POWER (317.50, 93.98). Connecting pin to net "N17375717".
-#27 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.48" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "CTL_CAMERA".
-#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.96" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD0".
-#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.95" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD1".
-#30 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.92" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD2".
-#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.91" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD3".
-#32 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.90" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD4".
-#33 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.89" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD5".
-#34 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.88" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD6".
-#35 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.87" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD7".
-#36 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.120" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD8".
-#37 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.123" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_BE_23_16".
-#38 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.119" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD9".
-#39 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.118" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD10".
-#40 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.117" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD11".
-#41 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.102" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD12".
-#42 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.101" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD13".
-#43 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.100" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD14".
-#44 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.99" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_AD15".
-#45 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.11" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART5_TX".
-#46 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.12" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART5_RX".
-#47 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.98" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "FB_OE_B".
-#48 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.105" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART1_RD#".
-#49 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.59" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "CTL_LED".
-#50 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.106" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "UART1_RX".
-#51 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.55" ignored for U1: MAIN, 03 MCU (147.32, 71.12). Connecting pin to net "RMII0_RXER".
-#52 WARNING(ORCAP-36038): "No_connect" property on Pin "Q3.1" ignored for Q3: MAIN, 07 DCDC POWER (317.50, 30.48). Connecting pin to net "N17209454".
-#53 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.5" ignored for U2: MAIN, 03 MCU (43.18, 266.70). Connecting pin to net "CLK_50M_PHY".
-#54 WARNING(ORCAP-36038): "No_connect" property on Pin "Q16.1" ignored for Q16: MAIN, 06 BAT CHARGE (304.80, 195.58). Connecting pin to net "VCC_VBAT".
-#55 WARNING(ORCAP-36038): "No_connect" property on Pin "Q17.1" ignored for Q17: MAIN, 06 BAT CHARGE (88.90, 55.88). Connecting pin to net "VCC_VMID".
-#56 WARNING(ORCAP-36038): "No_connect" property on Pin "Q18.1" ignored for Q18: MAIN, 06 BAT CHARGE (81.28, 106.68). Connecting pin to net "VCC_VMID".
-#57 WARNING(ORCAP-36006): Part Name "CON20_0_HEADER10X2_2R54_L_HEADER10X2_2R54" is renamed to "CON20_0_HEADER10X2_2R54_L_HEADE".
-#58 WARNING(ORCAP-36006): Part Name "FPC-40P-0R5-D_FPC-40P-0R5-D_FPC-40P-0R5-D" is renamed to "FPC-40P-0R5-D_FPC-40P-0R5-D_FPC".
-#59 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_SMMS1040_SMMS1040-1R5M" is renamed to "IND_BEAD_0805_600OHM_1_SMMS1040".
-#60 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_LC08".
-#61 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_LC_1".
-#62 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_SOIC8_IRF9321TRPBF" is renamed to "SI4497DY-T1-GE3_SOIC8_IRF9321TR".
-#63 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
-#64 WARNING(ORCAP-36006): Part Name "74AHC1G08_1_SOT23-5_INA193AIDBVT" is renamed to "74AHC1G08_1_SOT23-5_INA193AIDBV".
-#65 WARNING(ORCAP-36006): Part Name "E32-TTL-100S1_E32-TTL-100S1_E32-TTL-100S1/NI" is renamed to "E32-TTL-100S1_E32-TTL-100S1_E32".
-#66 WARNING(ORCAP-36006): Part Name "TPS61088RHLR_VQFN-20_TPS61088RHLR" is renamed to "TPS61088RHLR_VQFN-20_TPS61088RH".
-#67 WARNING(ORCAP-36006): Part Name "MP2359DJ-LF-Z_TSOT23-6_MP2359DJ-LF-Z" is renamed to "MP2359DJ-LF-Z_TSOT23-6_MP2359DJ".
-#68 WARNING(ORCAP-36006): Part Name "TYPE-C_16P_USB_TYPE-C_16P_USB_TYPE-C_16P" is renamed to "TYPE-C_16P_USB_TYPE-C_16P_USB_T".
-#69 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_USB-MICRO" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_USB-".
-#70 WARNING(ORCAP-36006): Part Name "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG5032CAN-50M-TJGA" is renamed to "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG50".
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.9" ignored for J2: MAIN, 02 USBHUB (373.38, 205.74). Connecting pin to net "VCC_3.3V".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.12" ignored for J2: MAIN, 02 USBHUB (373.38, 205.74). Connecting pin to net "VCC_3.3V".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.11" ignored for J2: MAIN, 02 USBHUB (373.38, 205.74). Connecting pin to net "N17459440".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.10" ignored for J2: MAIN, 02 USBHUB (373.38, 205.74). Connecting pin to net "N17459522".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.14" ignored for U10: MAIN, 03 USB (78.74, 30.48). Connecting pin to net "GPIO.1_ECI".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.24" ignored for U10: MAIN, 03 USB (78.74, 30.48). Connecting pin to net "GPIO.0_SCI".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.15" ignored for U10: MAIN, 03 USB (78.74, 30.48). Connecting pin to net "GPIO.0_ECI".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.23" ignored for U10: MAIN, 03 USB (78.74, 30.48). Connecting pin to net "GPIO.1_SCI".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U14.1" ignored for U14: MAIN, 03 USB (228.60, 165.10). Connecting pin to net "N17444239".
+INFO(ORCAP-36102): Diff Pair DRC check Warnings:
+INFO(ORCAP-17055): Differential pair DP7 has only one net N17444194 associated with it. A valid differential pair must have two nets associated with it. 
+
+#10 WARNING(ORCAP-36006): Part Name "CONN RCPT 3_CN1X3-2P54-Z_CN1X3-2P54-Z" is renamed to "CONN RCPT 3_CN1X3-2P54-Z_CN1X3-".
+#11 WARNING(ORCAP-36006): Part Name "CON_RJ45_1X8_F_RA_0_HR911105A_HR911105A" is renamed to "CON_RJ45_1X8_F_RA_0_HR911105A_H".
+#12 WARNING(ORCAP-36006): Part Name "CONN RCPT 3_DB128L-5R08-3P_DB128L-5.08-3P" is renamed to "CONN RCPT 3_DB128L-5R08-3P_DB12".
+#13 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-2P54-Z" is renamed to "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-".
+#14 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L0805_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_1_L0805_BL".
+#15 WARNING(ORCAP-36006): Part Name "744822222_0_WCM3216_DLW31SN222SQ2L" is renamed to "744822222_0_WCM3216_DLW31SN222S".
+#16 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L6030_MWSA0603-1R5MT" is renamed to "IND_BEAD_0805_600OHM_1_L6030_MW".
+#17 WARNING(ORCAP-36006): Part Name "CP2105_9_QFN24-4X4X0R5-2R7X2R7_CP2105" is renamed to "CP2105_9_QFN24-4X4X0R5-2R7X2R7_".
+#18 WARNING(ORCAP-36006): Part Name "B0505S-1WR2_B0505S-1WR3_B0505S-1WR3" is renamed to "B0505S-1WR2_B0505S-1WR3_B0505S-".
+#19 WARNING(ORCAP-36006): Part Name "ADM2483BRWZ-REEL_SOIC-16_300_ADM2483BRWZ-REEL" is renamed to "ADM2483BRWZ-REEL_SOIC-16_300_AD".
+#20 WARNING(ORCAP-36006): Part Name "TPS63070RNMR_VQFN15-2R5X3R0X0R5_TPS63070RNMR" is renamed to "TPS63070RNMR_VQFN15-2R5X3R0X0R5".
+#21 WARNING(ORCAP-36006): Part Name "LAN9514I-JZX_QFN64-9X9X0R5-7R3X7R3_LAN9514I-JZX" is renamed to "LAN9514I-JZX_QFN64-9X9X0R5-7R3X".
+#22 WARNING(ORCAP-36006): Part Name "TPD4E1U06DBVR_SOT363_TPD4E1U06DCKR" is renamed to "TPD4E1U06DBVR_SOT363_TPD4E1U06D".
+#23 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_DSX321G-25M" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_DSX32".
+#24 WARNING(ORCAP-36006): Part Name "USB-A-DOUBLE_USB-A-DOUBLE_USB-A-DOUBLE" is renamed to "USB-A-DOUBLE_USB-A-DOUBLE_USB-A".
 INFO(ORCAP-36080): Scanning netlist files ...
 
-Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_TSSB_ZB_V10A\SCH\ALLEGRO/pstchip.dat
+Loading... H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\ALLEGRO/pstchip.dat
 
-Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_TSSB_ZB_V10A\SCH\ALLEGRO/pstchip.dat
+Loading... H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\ALLEGRO/pstchip.dat
 
-Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_TSSB_ZB_V10A\SCH\ALLEGRO/pstxprt.dat
+Loading... H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\ALLEGRO/pstchip.dat
 
-Loading... G:\SVN\hard_group\手持调试设备\trunk\HY_TSSB_ZB_V10A\SCH\ALLEGRO/pstxnet.dat
+Loading... H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\ALLEGRO/pstxnet.dat
 packaging the design view...

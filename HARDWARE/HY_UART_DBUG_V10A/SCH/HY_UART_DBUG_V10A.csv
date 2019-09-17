@@ -1,0 +1,5 @@
+Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
+"USBDP5","OffPage","03 USB","3","MAIN","U10.3","210","200","5D","{2}"
+"USBDP5","OffPage","02 USBHUB","2","MAIN","U2.9","120","320","5C","{3}"
+"USBDM5","OffPage","03 USB","3","MAIN","U10.4","210","210","5D","{2}"
+"USBDM5","OffPage","02 USBHUB","2","MAIN","U2.8","120","310","5C","{3}"
