@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Sep-17-2019 at 15:27:14 }
+{ Using PSTWRITER 17.2.0 d001Sep-18-2019 at 14:59:58 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='HY_UART_DBUG_V10A';
@@ -174,16 +174,6 @@ SECTION_NUMBER 1
  '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17452501@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
  C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17452501@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17452501@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C25 'CAP NP_2_C0603_0.1UF_25V':;
-
-SECTION_NUMBER 1
- '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17452509@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
- C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17452509@mk60_ytai_v41b.\cap np_2.normal\(chips)',
- P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17452509@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -494,6 +484,36 @@ SECTION_NUMBER 1
  '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17476840@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
  C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17476840@mk60_ytai_v41b.\cap np_2.normal\(chips)',
  P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17476840@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17483671@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17483671@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17483671@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17483778@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17483778@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17483778@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAPT_100UF_3528_6R3V_10%_LXXXX_':;
+
+SECTION_NUMBER 1
+ '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17483887@EP_LF_ORCAD_LIBRARY1.CAPT_100UF_3528_6R3V_10%_LXXXX.NORMAL(CHIPS)':
+ C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17483887@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
+ P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17483887@ep_lf_orcad_library1.\capt_100uf_3528_6r3v_10%_lxxxx.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1118,7 +1138,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U12 'ADM2483BRWZ-REEL_SOIC-16_300_AD':;
+ U12 'ADM2483BRWZ-REEL_SOIC16_300_ADM':;
 
 SECTION_NUMBER 1
  '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17444398@IC.ADM2483BRWZ-REEL.NORMAL(CHIPS)':
@@ -1268,12 +1288,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- USB3 'USB-A_0_USB-A-L_USB-A-L':;
+ USB3 'USB-A_1_USB-A-TE_292336-1_29233':;
 
 SECTION_NUMBER 1
- '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17464484@HY_UART_DBUG_V10A.USB-A_0.NORMAL(CHIPS)':
- C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17464484@hy_uart_dbug_v10a.\usb-a_0.normal\(chips)',
- P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17464484@hy_uart_dbug_v10a.\usb-a_0.normal\(chips)',
+ '@HY_UART_DBUG_V10A.MAIN(SCH_1):INS17464484@HY_UART_DBUG_V10A.USB-A_1.NORMAL(CHIPS)':
+ C_PATH='@hy_uart_dbug_v10a.main(sch_1):ins17464484@hy_uart_dbug_v10a.\usb-a_1.normal\(chips)',
+ P_PATH='@hy_uart_dbug_v10a.main(sch_1):page2_ins17464484@hy_uart_dbug_v10a.\usb-a_1.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

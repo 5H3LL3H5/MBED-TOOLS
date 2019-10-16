@@ -86,7 +86,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\SVN\hard_group\手持调试设备\trunk\HY_TSSB_ZB_V10A\SCH\HY_TSSB_ZB_V10A.BOM")
+       "H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\HY_UART_DBUG_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
@@ -96,7 +96,7 @@
        "G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41G\SCH\MK60_YTAI_V41G.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
-    (Open_BOM_in_Excel "FALSE")
+    (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE")
     (File ".\hy_uart_dbug_v10a.dsn"
       (Type "Schematic Design"))
@@ -115,16 +115,23 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\hy_uart_dbug_v10a.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\hy_uart_dbug_v10a.dsn")
-      (Path "Design Resources" ".\hy_uart_dbug_v10a.dsn" "MAIN")
+      (Path "Design Resources"
+         "h:\mbed-tools\hardware\hy_uart_dbug_v10a\sch\hy_uart_dbug_v10a.dsn")
+      (Path "Design Resources"
+         "h:\mbed-tools\hardware\hy_uart_dbug_v10a\sch\hy_uart_dbug_v10a.dsn"
+         "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\hy_uart_dbug_v10a.dsn" "MAIN" "02 USBHUB"))
+      (Select "Design Resources"
+         "h:\mbed-tools\hardware\hy_uart_dbug_v10a\sch\hy_uart_dbug_v10a.dsn"
+         "MAIN" "03 USB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -145,9 +152,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1323 26 645")
-        (Scroll "865 769")
-        (Zoom "148")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1323 26 645")
+        (Scroll "965 1630")
+        (Zoom "240")
         (Occurrence "/"))
       (Path
          "H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\HY_UART_DBUG_V10A.DSN")

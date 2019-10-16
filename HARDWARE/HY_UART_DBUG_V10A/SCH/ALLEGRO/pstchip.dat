@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Sep-17-2019 at 15:27:14}
+{ Using PSTWRITER 17.2.0 d001Sep-18-2019 at 14:59:58}
 primitive 'CAP NP_2_C0603_0.1UF_25V';
   pin
     '1':
@@ -148,6 +148,21 @@ primitive 'CAP NP_2_C0603_20PF_25V';
     PART_NAME='CAP NP_2';
     JEDEC_TYPE='C0603';
     VALUE='20pF_25V';
+  end_body;
+end_primitive;
+primitive 'CAPT_100UF_3528_6R3V_10%_LXXXX_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPT_100UF_3528_6r3V_10%_LXXXX';
+    JEDEC_TYPE='CAP-2R5-6R3X7';
+    VALUE='470uF_6V3';
   end_body;
 end_primitive;
 primitive 'LED_4_LED0805_LED_GREEN';
@@ -865,7 +880,7 @@ primitive 'B0505S-1WR2_B0505S-1WR3_B0505S-';
     VALUE='B0505S-1WR3';
   end_body;
 end_primitive;
-primitive 'ADM2483BRWZ-REEL_SOIC-16_300_AD';
+primitive 'ADM2483BRWZ-REEL_SOIC16_300_ADM';
   pin
     'VDD1':
       PIN_NUMBER='(1)';
@@ -918,7 +933,7 @@ primitive 'ADM2483BRWZ-REEL_SOIC-16_300_AD';
   end_pin;
   body
     PART_NAME='ADM2483BRWZ-REEL';
-    JEDEC_TYPE='SOIC-16_300';
+    JEDEC_TYPE='SOIC16_300';
     VALUE='ADM2483BRWZ-REEL';
   end_body;
 end_primitive;
@@ -1441,7 +1456,7 @@ primitive 'USB-A-DOUBLE_USB-A-DOUBLE_USB-A';
     VALUE='USB-A-DOUBLE';
   end_body;
 end_primitive;
-primitive 'USB-A_0_USB-A-L_USB-A-L';
+primitive 'USB-A_1_USB-A-TE_292336-1_29233';
   pin
     'VBUS':
       PIN_NUMBER='(1)';
@@ -1464,11 +1479,14 @@ primitive 'USB-A_0_USB-A-L_USB-A-L';
     'S_3':
       PIN_NUMBER='(7)';
       PINUSE='UNSPEC';
+    'S_4':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='USB-A_0';
-    JEDEC_TYPE='USB-A-L';
-    VALUE='USB-A-L';
+    PART_NAME='USB-A_1';
+    JEDEC_TYPE='USB-A-TE_292336-1';
+    VALUE='292336-1';
   end_body;
 end_primitive;
 END.
