@@ -129,9 +129,7 @@
          "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "h:\mbed-tools\hardware\hy_uart_dbug_v10a\sch\hy_uart_dbug_v10a.dsn"
-         "MAIN" "03 USB"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -152,9 +150,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1323 26 645")
-        (Scroll "965 1630")
-        (Zoom "240")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1323 26 645")
+        (Scroll "1356 1447")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\HY_UART_DBUG_V10A.DSN")
