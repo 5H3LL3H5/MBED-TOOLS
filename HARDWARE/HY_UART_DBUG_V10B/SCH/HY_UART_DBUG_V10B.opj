@@ -120,15 +120,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10B\SCH\hy_uart_dbug_v10b.dsn")
-      (Path "Design Resources"
-         "H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10B\SCH\hy_uart_dbug_v10b.dsn"
-         "MAIN")
+      (Path "Design Resources" ".\hy_uart_dbug_v10b.dsn")
+      (Path "Design Resources" ".\hy_uart_dbug_v10b.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10B\SCH\hy_uart_dbug_v10b.dsn"))
+      (Select "Design Resources" ".\hy_uart_dbug_v10b.dsn" "MAIN"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
