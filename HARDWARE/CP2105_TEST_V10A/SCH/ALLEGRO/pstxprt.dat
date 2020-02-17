@@ -1,0 +1,240 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Dec-20-2019 at 18:45:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CP2105_TEST_V10A';
+ POST_TIME='Aug  6 2019 19:29:12';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_4.7UF_25V':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444666@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444666@discrete.\cap np.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444666@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17461336@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17461336@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17461336@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17461289@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17461289@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17461289@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_2_C0603_0.1UF_25V':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17461344@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17461344@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17461344@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_2_C0603_10UF_10V':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17461954@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17461954@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17461954@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_2_C0603_0.1UF_25V':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17461962@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17461962@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17461962@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_2_C0603_0.1UF_25V':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17495016@MK60_YTAI_V41B.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17495016@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17495016@mk60_ytai_v41b.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444918@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444918@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444918@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444387@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444387@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444387@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_4_LED0805_LED_RED':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444473@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444473@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444473@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_4_LED0805_LED_GREEN':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444776@F543_GPS_V10A.LED_4.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444776@f543_gps_v10a.\led_4.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444776@f543_gps_v10a.\led_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN RCPT 4_CN1X4-2P54-Z_CN1X4-':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17495925@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17495925@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17495925@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN RCPT 4_CN1X4-2P54-Z_CN1X4-':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444688@CONNECTOR.CONN RCPT 4.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444688@connector.\conn rcpt 4.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444688@connector.\conn rcpt 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_BEAD_0805_600OHM_1_L0805_BL':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17494856@MK60_YTAI_V41B.IND_BEAD_0805_600OHM_1.CONVERT(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17494856@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17494856@mk60_ytai_v41b.\ind_bead_0805_600ohm_1.convert\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444596@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444596@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444596@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444497@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444497@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444497@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444809@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444809@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444809@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444820@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444820@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444820@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_GENERIC_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444365@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444365@\emulation module\.\r_generic.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444365@\emulation module\.\r_generic.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CP2105_9_QFN24-4X4X0R5-2R7X2R7_':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17444831@TL437XF-EVM-A2.CP2105_9.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17444831@\tl437xf-evm-a2\.\cp2105_9.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17444831@\tl437xf-evm-a2\.\cp2105_9.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TPD4E1U06DBVR_SOT363_TPD4E1U06D':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17494912@IC.TPD4E1U06DBVR.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17494912@ic.\tpd4e1u06dbvr.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17494912@ic.\tpd4e1u06dbvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB-A-MALE_USB-A-MALE_USB-A-MAL':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17495217@HYOC.USB-A-MALE.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17495217@hyoc.\usb-a-male.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17495217@hyoc.\usb-a-male.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB2 'USB-B_USB-B_USB-B':;
+
+SECTION_NUMBER 1
+ '@CP2105_TEST_V10A.MAIN(SCH_1):INS17494866@HYOC.USB-B.NORMAL(CHIPS)':
+ C_PATH='@cp2105_test_v10a.main(sch_1):ins17494866@hyoc.\usb-b.normal\(chips)',
+ P_PATH='@cp2105_test_v10a.main(sch_1):page2_ins17494866@hyoc.\usb-b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

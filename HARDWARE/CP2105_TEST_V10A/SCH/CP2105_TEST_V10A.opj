@@ -6,21 +6,19 @@
       (File "e:\cadencelib\orcad\hyoc.olb"
         (Type "Schematic Library"))
       (File "e:\cadencelib\orcad\ic.olb"
-        (Type "Schematic Library"))
-      (File "e:\cadencelib\orcad\connect.olb"
         (Type "Schematic Library")))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (NoModify)
     (DRC_Scope "0")
     (DRC_Action "0")
-    (DRC_Create_Warnings "FALSE")
+    (DRC_Create_Warnings "TRUE")
     (DRC_View_Output "FALSE")
     (DRC_Preserved_Waived "FALSE")
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\MBED-TOOLS\HARDWARE\HY_IP6518_TEST_V10A\SCH\HY_IP6518_TEST_V10A.DRC")
+       "H:\MBED-TOOLS\HARDWARE\CP2105_TEST_V10A\SCH\CP2105_TEST_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -65,11 +63,11 @@
     (width_start "80")
     (width_End "80")
     (IREFReportFile
-       "G:\SVN\hard_group\手持调试设备\trunk\HY_TSSB_ZB_V10A\SCH\HY_TSSB_ZB_V10A.csv")
+       "H:\MBED-TOOLS\HARDWARE\HY_UART_DBUG_V10A\SCH\HY_UART_DBUG_V10A.csv")
     (IREFViewOutput "0")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "H:\MBED-TOOLS\HARDWARE\HY_IP6518_TEST_V10A\SCH\ALLEGRO")
+       "H:\MBED-TOOLS\HARDWARE\CP2105_TEST_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -88,7 +86,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "G:\SVN\hard_group\手持调试设备\trunk\HY_TSSB_ZB_V10A\SCH\HY_TSSB_ZB_V10A.BOM")
+       "H:\MBED-TOOLS\HARDWARE\CP2105_TEST_V10A\SCH\CP2105_TEST_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
@@ -98,13 +96,16 @@
        "G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\MK60_YTAI_V41G\SCH\MK60_YTAI_V41G.INC")
     (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
     (BOM_One_Part_Per_Line "FALSE")
-    (Open_BOM_in_Excel "FALSE")
+    (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
-    (File ".\hy_ip6518_test_v10a.dsn"
-      (Type "Schematic Design")))
+    (File ".\cp2105_test_v10a.dsn"
+      (Type "Schematic Design"))
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
+    (File ".\cp2105_test_v10a.drc"
+      (Type "Report"))
     (File ".\allegro\pstxnet.dat"
       (Type "Report")
       (DisplayName "pstxnet.dat"))
@@ -114,7 +115,7 @@
     (File ".\allegro\pstchip.dat"
       (Type "Report")
       (DisplayName "pstchip.dat"))
-    (File ".\hy_ip6518_test_v10a.drc"
+    (File ".\cp2105_test_v10a.bom"
       (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
@@ -122,35 +123,76 @@
       (Path "Design Resources")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources" ".\cp2105_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 955"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1423 130 745")
-        (Scroll "2846 30")
-        (Zoom "248")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1345 52 667")
+        (Scroll "0 0")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path
-         "H:\MBED-TOOLS\HARDWARE\HY_IP6518_TEST_V10A\SCH\HY_IP6518_TEST_V10A.DSN")
+      (Path "H:\MBED-TOOLS\HARDWARE\CP2105_TEST_V10A\SCH\CP2105_TEST_V10A.DSN")
       (Schematic "MAIN")
-      (Page "02 IP6518")))
+      (Page "02 USB")))
   (PartMRUSelector
-    (IP6518C
-      (FullPartName "IP6518C.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+    (USB-A-MALE
+      (FullPartName "USB-A-MALE.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
       (DeviceIndex "0"))
-    (MOS-N
-      (FullPartName "MOS-N.Normal")
+    (OFFPAGELEFT-BIDIR
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TPS63070RNMR
+      (FullPartName "TPS63070RNMR.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
       (DeviceIndex "0"))
     (USB-A
       (FullPartName "USB-A.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (93LC66B-I/SN
+      (FullPartName "93LC66B-I/SN.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (USB-A-DOUBLE
+      (FullPartName "USB-A-DOUBLE.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 3"
+      (FullPartName "CONN RCPT 3.Normal")
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND_EARTH
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MIC2026-1YM
+      (FullPartName "MIC2026-1YM.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (LAN9514I-JZX
+      (FullPartName "LAN9514I-JZX.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (B0505S-1WR2
+      (FullPartName "B0505S-1WR2.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    (ADUM1201ARZ
+      (FullPartName "ADUM1201ARZ.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (ADM2483BRWZ-REEL
+      (FullPartName "ADM2483BRWZ-REEL.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (USB-B
+      (FullPartName "USB-B.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
       (DeviceIndex "0"))
     (USB-MICRO
@@ -196,50 +238,6 @@
     (WS20J7Z
       (FullPartName "WS20J7Z.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
-      (DeviceIndex "0"))
-    (HPSD12V2AB
-      (FullPartName "HPSD12V2AB.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
-      (DeviceIndex "0"))
-    (TestPoint
-      (FullPartName "TestPoint.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
-      (DeviceIndex "0"))
-    (TFT-3R2
-      (FullPartName "TFT-3R2.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
-      (DeviceIndex "0"))
-    (HS0038
-      (FullPartName "HS0038.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (LM2904VQDR
-      (FullPartName "LM2904VQDRB.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "1"))
-    (IS61LV25626
-      (FullPartName "IS61LV25626.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (ADXL345
-      (FullPartName "ADXL345.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (AT24C512
-      (FullPartName "AT24C512.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (CH340G
-      (FullPartName "CH340G.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
-      (DeviceIndex "0"))
-    (POW_DOG
-      (FullPartName "POW_DOG.Normal")
-      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
-      (DeviceIndex "0"))
-    ("CONN RCPT 2"
-      (FullPartName "CONN RCPT 2.Normal")
-      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "Administrator")
   (ISPCBBASICLICENSE "false"))
