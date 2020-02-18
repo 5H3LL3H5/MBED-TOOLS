@@ -136,9 +136,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1414 78 706")
-        (Scroll "411 75")
-        (Zoom "150")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1414 78 706")
+        (Scroll "228 73")
+        (Zoom "122")
         (Occurrence "/"))
       (Path
          "H:\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\HY_TYPEC_DBUG_V10A.DSN")
@@ -147,9 +147,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1492 156 784")
-        (Scroll "-29 0")
-        (Zoom "75")
+        (Placement "44 2 3 -1 -1 -8 -31 156 1492 156 784")
+        (Scroll "2435 115")
+        (Zoom "244")
         (Occurrence "/"))
       (Path
          "H:\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\HY_TYPEC_DBUG_V10A.DSN")
