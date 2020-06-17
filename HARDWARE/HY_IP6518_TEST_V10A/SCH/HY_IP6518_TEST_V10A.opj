@@ -133,8 +133,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 130 1423 130 745")
-        (Scroll "2846 30")
-        (Zoom "248")
+        (Scroll "4345 3199")
+        (Zoom "496")
         (Occurrence "/"))
       (Path
          "H:\MBED-TOOLS\HARDWARE\HY_IP6518_TEST_V10A\SCH\HY_IP6518_TEST_V10A.DSN")

@@ -148,8 +148,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 156 1492 156 784")
-        (Scroll "2435 115")
-        (Zoom "244")
+        (Scroll "576 0")
+        (Zoom "300")
         (Occurrence "/"))
       (Path
          "H:\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\HY_TYPEC_DBUG_V10A.DSN")
