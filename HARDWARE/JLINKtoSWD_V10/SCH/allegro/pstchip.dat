@@ -1,0 +1,93 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Aug-01-2020 at 11:10:00}
+primitive 'CONN RCPT 7_CN1X7-2P54-Z_CN1X7-';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN RCPT 7';
+    JEDEC_TYPE='CN1X7-2P54-Z';
+    VALUE='CN1X7-2P54-Z';
+  end_body;
+end_primitive;
+primitive 'DC3-10P-Z-L_DC3-10P-Z-L_DC3-10P';
+  pin
+    'DIO':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'RST':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CLK':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'WDG':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'TX':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'REV1':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'RX':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'REV2':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DC3-10P-Z-L';
+    JEDEC_TYPE='DC3-10P-Z-L';
+    VALUE='DC3-10P-Z-L';
+  end_body;
+end_primitive;
+primitive 'SWITCH-SPST-4P_K2-1102SP-M4SC-0';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SWITCH-SPST-4P';
+    JEDEC_TYPE='K2-1102SP-M4SC-04';
+    VALUE='K2-1102SP-M4SC-04';
+  end_body;
+end_primitive;
+END.

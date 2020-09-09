@@ -1,0 +1,14 @@
+Date and Time : 08/08/20 14:59:01
+
+--------------------------------------------------
+Checking Schematic: MAIN
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections USBDN4_DP 
+                    MAIN, 03 HUB  (121.92, 96.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections USBDN4_DM 
+                    MAIN, 03 HUB  (121.92, 99.06) 
+
+Checking For Unconnected Bus Nets

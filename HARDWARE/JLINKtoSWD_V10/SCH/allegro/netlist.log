@@ -1,0 +1,17 @@
+{ Using PSTWRITER 17.2.0 d001Aug-01-2020 at 11:10:00 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.8" ignored for J2: MAIN, 02 MCU (236.22, 96.52). Connecting pin to net "SYS_BMODE0".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.2" ignored for J2: MAIN, 02 MCU (236.22, 96.52). Connecting pin to net "SYS_HWRST_N".
+#3 WARNING(ORCAP-36006): Part Name "CONN RCPT 7_CN1X7-2P54-Z_CN1X7-2P54-Z" is renamed to "CONN RCPT 7_CN1X7-2P54-Z_CN1X7-".
+#4 WARNING(ORCAP-36006): Part Name "DC3-10P-Z-L_DC3-10P-Z-L_DC3-10P-Z-L" is renamed to "DC3-10P-Z-L_DC3-10P-Z-L_DC3-10P".
+#5 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1102SP-M4SC-04_K2-1102SP-M4SC-04" is renamed to "SWITCH-SPST-4P_K2-1102SP-M4SC-0".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\JLINKtoSWD_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\JLINKtoSWD_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\JLINKtoSWD_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\JLINKtoSWD_V10\SCH\allegro/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,37 @@
+{ Using PSTWRITER 17.2.0 d001Aug-01-2020 at 16:53:58 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.10" ignored for J2: MAIN, 02 MCU (355.60, 68.58). Connecting pin to net "N17246378".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.12" ignored for J2: MAIN, 02 MCU (355.60, 68.58). Connecting pin to net "N17246417".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.11" ignored for J4: MAIN, 02 MCU (355.60, 154.94). Connecting pin to net "EL3".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.9" ignored for J1: MAIN, 02 MCU (355.60, 25.40). Connecting pin to net "VCC_5V_WIFI".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.9" ignored for J2: MAIN, 02 MCU (355.60, 68.58). Connecting pin to net "VCC_5V_WIFI".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.9" ignored for J3: MAIN, 02 MCU (355.60, 111.76). Connecting pin to net "VCC_5V_WIFI".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.9" ignored for J4: MAIN, 02 MCU (355.60, 154.94). Connecting pin to net "VCC_5V_WIFI".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.9" ignored for J5: MAIN, 02 MCU (355.60, 198.12). Connecting pin to net "VCC_5V_WIFI".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.10" ignored for J3: MAIN, 02 MCU (355.60, 111.76). Connecting pin to net "N17246644".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.12" ignored for J3: MAIN, 02 MCU (355.60, 111.76). Connecting pin to net "N17246683".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "J3.11" ignored for J3: MAIN, 02 MCU (355.60, 111.76). Connecting pin to net "EL2".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.12" ignored for J4: MAIN, 02 MCU (355.60, 154.94). Connecting pin to net "N17246959".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.10" ignored for J4: MAIN, 02 MCU (355.60, 154.94). Connecting pin to net "N17246920".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.10" ignored for J5: MAIN, 02 MCU (355.60, 198.12). Connecting pin to net "N17247205".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.12" ignored for J5: MAIN, 02 MCU (355.60, 198.12). Connecting pin to net "N17247244".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.10" ignored for J1: MAIN, 02 MCU (355.60, 25.40). Connecting pin to net "N17240877".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.12" ignored for J1: MAIN, 02 MCU (355.60, 25.40). Connecting pin to net "N17240928".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.11" ignored for J2: MAIN, 02 MCU (355.60, 68.58). Connecting pin to net "EL1".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.11" ignored for J5: MAIN, 02 MCU (355.60, 198.12). Connecting pin to net "EL4".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.11" ignored for J1: MAIN, 02 MCU (355.60, 25.40). Connecting pin to net "ELED0".
+#21 WARNING(ORCAP-36006): Part Name "CON_RJ45_1X8_F_RA_0_HR911105A_HR911105A" is renamed to "CON_RJ45_1X8_F_RA_0_HR911105A_H".
+#22 WARNING(ORCAP-36006): Part Name "CONN RCPT 3_CN1X3-2P54-Z_CN1X3-2P54-Z" is renamed to "CONN RCPT 3_CN1X3-2P54-Z_CN1X3-".
+#23 WARNING(ORCAP-36006): Part Name "CONN RCPT 2_WJ2EDGRC-5R08-2P_WJ2EDGRC-5.08-2P" is renamed to "CONN RCPT 2_WJ2EDGRC-5R08-2P_WJ".
+#24 WARNING(ORCAP-36006): Part Name "SMA-50R_0_SMA-50R-DIP_SMA-50R/NI" is renamed to "SMA-50R_0_SMA-50R-DIP_SMA-50R/N".
+#25 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\RM08K_TEST_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\RM08K_TEST_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\RM08K_TEST_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\RM08K_TEST_V10\SCH\allegro/pstxnet.dat
+packaging the design view...

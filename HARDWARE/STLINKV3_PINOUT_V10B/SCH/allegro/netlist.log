@@ -1,0 +1,18 @@
+{ Using PSTWRITER 17.2.0 d001Jul-21-2020 at 20:31:03 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J2.2" ignored for J2: MAIN, 02 MCU (187.96, 139.70). Connecting pin to net "T_NRST".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.8" ignored for J1: MAIN, 02 MCU (187.96, 99.06). Connecting pin to net "VCC_3.3V".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.2" ignored for J1: MAIN, 02 MCU (187.96, 99.06). Connecting pin to net "VCC_3.3V".
+#4 WARNING(ORCAP-36006): Part Name "CONN RCPT 10_HX25035-10WA_HX25035-10WA" is renamed to "CONN RCPT 10_HX25035-10WA_HX250".
+#5 WARNING(ORCAP-36006): Part Name "DC3-10P-Z-L_DC3-10P-Z-L_DC3-10P-Z-L" is renamed to "DC3-10P-Z-L_DC3-10P-Z-L_DC3-10P".
+#6 WARNING(ORCAP-36006): Part Name "STLINK-V3MODS_STLINK-V3MODS_STLINK-V3MODS" is renamed to "STLINK-V3MODS_STLINK-V3MODS_STL".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\STLINKV3_PINOUT_V10B\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\STLINKV3_PINOUT_V10B\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\STLINKV3_PINOUT_V10B\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\STLINKV3_PINOUT_V10B\SCH\allegro/pstxnet.dat
+packaging the design view...

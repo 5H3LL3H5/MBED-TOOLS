@@ -123,36 +123,41 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\hy_typec_dbug_v10a.dsn")
-      (Path "Design Resources" ".\hy_typec_dbug_v10a.dsn" "MAIN")
+      (Path "Design Resources"
+         "H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\hy_typec_dbug_v10a.dsn")
+      (Path "Design Resources"
+         "H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\hy_typec_dbug_v10a.dsn"
+         "MAIN")
       (Path "Outputs")
-      (Select "Design Resources" ".\hy_typec_dbug_v10a.dsn"))
+      (Select "Design Resources"
+         "H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\hy_typec_dbug_v10a.dsn"
+         "MAIN" "04 TTL"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 955"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1414 78 706")
-        (Scroll "228 73")
-        (Zoom "122")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1203 130 749")
+        (Scroll "0 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "H:\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\HY_TYPEC_DBUG_V10A.DSN")
+         "H:\GITHUB\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\HY_TYPEC_DBUG_V10A.DSN")
       (Schematic "MAIN")
       (Page "03 HUB"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1492 156 784")
-        (Scroll "576 0")
-        (Zoom "300")
+        (Placement "44 2 3 -1 -1 -8 -31 156 1229 156 775")
+        (Scroll "3558 1048")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
-         "H:\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\HY_TYPEC_DBUG_V10A.DSN")
+         "H:\GITHUB\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\SCH\HY_TYPEC_DBUG_V10A.DSN")
       (Schematic "MAIN")
       (Page "04 TTL")))
   (PartMRUSelector

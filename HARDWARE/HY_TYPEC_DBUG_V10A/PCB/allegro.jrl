@@ -1,0 +1,133 @@
+\t (00:00:02) allegro 17.2 S067 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Aug 04 13:47:18 2020
+\t (00:00:02)         Host=XXXLZJXXX User=Administrator Pid=4180 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10A\PCB\HY_TYPEC_DBUG_V10A.brd
+\t (00:00:02) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged HY_TYPEC_DBUG_V10A
+\d (00:00:06) Design opened: H:/github/MBED-TOOLS/HARDWARE/HY_TYPEC_DBUG_V10A/PCB/HY_TYPEC_DBUG_V10A.brd
+\i (00:00:07) trapsize 6868
+\i (00:00:08) trapsize 7063
+\i (00:00:08) trapsize 7132
+\i (00:00:08) trapsize 6321
+\i (00:00:08) trapsize 6321
+\t (00:00:09) Begin Load EDA365 Skill...
+\t (00:00:09) >>EDA365 Skill V2.5 加载成功!
+\t (00:00:09) >>菜单快捷键CTRL+E
+\i (00:00:09) generaledit 
+\i (00:00:31) pick grid 77.6955 -25.5939
+\t (00:00:31) last pick:  77.7000 -25.6000
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 3.9948 9.4234
+\i (00:00:33) trapsize 3160
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 3.9949 9.4234
+\i (00:00:33) trapsize 1580
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 8.1034 8.8229
+\i (00:00:33) trapsize 790
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 4.6270 9.2812
+\i (00:00:34) trapsize 1580
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 6.3652 9.2811
+\i (00:00:34) trapsize 3160
+\i (00:00:36) setwindow form.mini
+\i (00:00:36) FORM mini class ETCH 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) pick grid 20.0814 22.8709
+\t (00:00:37) last pick:  20.1000 22.9000
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 6.3021 3.1500
+\i (00:00:37) trapsize 1580
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 17.3003 5.2991
+\i (00:00:37) trapsize 3160
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 17.6164 5.2991
+\i (00:00:37) trapsize 6321
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 17.6165 5.2992
+\i (00:00:37) trapsize 12642
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 17.6165 5.2992
+\i (00:00:38) trapsize 25283
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 16.0995 0.2425
+\i (00:00:38) trapsize 12642
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 16.0995 0.2426
+\i (00:00:38) trapsize 6321
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 16.6052 0.6219
+\i (00:00:38) trapsize 3160
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 21.7883 3.3398
+\i (00:00:39) trapsize 1580
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 28.7412 11.0512
+\i (00:00:41) trapsize 790
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 29.2785 12.1416
+\i (00:00:42) trapsize 395
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 29.2786 12.1417
+\i (00:00:43) trapsize 790
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 29.4049 8.4281
+\i (00:00:44) trapsize 395
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 27.0505 7.7644
+\i (00:00:48) trapsize 790
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 30.0054 9.8345
+\i (00:00:48) trapsize 395
+\i (00:02:54) pick grid 31.4987 9.9531
+\t (00:02:54) last pick:  31.5000 10.0000
+\i (01:00:24) pick grid 31.5382 10.5694
+\t (01:00:24) last pick:  31.5000 10.6000
+\i (01:02:03) pick grid 27.5561 7.6460
+\t (01:02:03) last pick:  27.6000 7.6000
+\i (01:02:16) pick grid 27.6984 7.5196
+\t (01:02:16) last pick:  27.7000 7.5000
+\i (01:12:10) pick grid 32.2019 8.2939
+\t (01:12:10) last pick:  32.2000 8.3000
+\i (01:12:20) pick grid 33.1738 6.7216
+\t (01:12:20) last pick:  33.2000 6.7000
+\i (01:12:27) pick grid 30.6849 7.9699
+\t (01:12:27) last pick:  30.7000 8.0000
+\i (01:14:09) pick grid 31.1274 9.9452
+\t (01:14:09) last pick:  31.1000 9.9000
+\i (01:14:13) pick grid 31.6568 10.0874
+\t (01:14:13) last pick:  31.7000 10.1000
+\i (01:14:24) pick grid 26.7502 11.8730
+\t (01:14:24) last pick:  26.8000 11.9000
+\i (05:49:21) xhilite 
+\i (05:49:22) xname_flush 
+\i (05:49:22) done 
+\i (05:49:23) generaledit 
+\i (05:49:27) exit 
+\e (05:49:27) Do you want to save the changes you made to HY_TYPEC_DBUG_V10A.brd?
+\i (05:49:29) fillin no 
+\t (05:49:30)     Journal end - Tue Aug 04 19:36:45 2020
