@@ -1,0 +1,40 @@
+{ Using PSTWRITER 17.2.0 d001Sep-29-2020 at 14:49:22 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.10" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "ADC_BAT_V".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.11" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "ADC_BAT_C".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.12" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "ADC_USB_C".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.13" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "ADC_USB_V".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "Q1.1" ignored for Q1: MAIN, 02 CHARGER (76.20, 50.80). Connecting pin to net "N17511019".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.18" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OLED_D0".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.29" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "LED0".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.15" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OLED_CS".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.28" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "KEY0".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.14" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OLED_DC".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.15" ignored for U5: MAIN, 02 CHARGER (238.76, 200.66). Connecting pin to net "OLED_DC".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.14" ignored for U5: MAIN, 02 CHARGER (238.76, 200.66). Connecting pin to net "RESET".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.3" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OSC32_IN".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.19" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OLED_D1".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.17" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OLED_RW".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.31" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "USART1_RX".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.16" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OLED_RD".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.4" ignored for U6: MAIN, 02 CHARGER (60.96, 215.90). Connecting pin to net "OSC32_OUT".
+#19 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L10040_SMMS1040-1R5M" is renamed to "IND_BEAD_0805_600OHM_1_L10040_S".
+#20 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_L6028_SLF6028T-4R7M1R6-PF" is renamed to "INDUCTOR_0_L6028_SLF6028T-4R7M1".
+#21 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_0_DFN3X3_WSD30L40DN" is renamed to "SI4497DY-T1-GE3_0_DFN3X3_WSD30L".
+#22 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04/NI" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#23 WARNING(ORCAP-36006): Part Name "IP5328P_0_QFN40-6X6X0R5-4R6X4R6_IP5328P" is renamed to "IP5328P_0_QFN40-6X6X0R5-4R6X4R6".
+#24 WARNING(ORCAP-36006): Part Name "MP2359DJ-LF-Z_SOT23-6_MP2359DJ-LF-Z" is renamed to "MP2359DJ-LF-Z_SOT23-6_MP2359DJ-".
+#25 WARNING(ORCAP-36006): Part Name "STM32F103C8T6_LQFP48-7X7X0R5_STM32L151RBT6" is renamed to "STM32F103C8T6_LQFP48-7X7X0R5_ST".
+#26 WARNING(ORCAP-36006): Part Name "TYPE-C_16P_TYPE-C-31-M-12_TYPE-C-31-M-12" is renamed to "TYPE-C_16P_TYPE-C-31-M-12_TYPE-".
+#27 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCE8M00G15C99-R0" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+#28 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-3R2X1R5-SMD_XTAL_32768HZ_3215" is renamed to "XTAL_5032_0_X-2P-3R2X1R5-SMD_XT".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_CHRG_V10\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_CHRG_V10\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_CHRG_V10\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_TYPEC_CHRG_V10\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

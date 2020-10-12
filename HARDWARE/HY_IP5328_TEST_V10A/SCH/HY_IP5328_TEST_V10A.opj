@@ -120,9 +120,16 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources"
+         "H:\github\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10A\SCH\hy_ip5328_test_v10a.dsn")
+      (Path "Design Resources"
+         "H:\github\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10A\SCH\hy_ip5328_test_v10a.dsn"
+         "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\hy_ip5328_test_v10a.dsn"))
+      (Select "Design Resources"
+         "H:\github\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10A\SCH\hy_ip5328_test_v10a.dsn"
+         "MAIN" "02 IP5328P"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -132,12 +139,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1639 52 671")
-        (Scroll "-185 -9")
-        (Zoom "74")
+        (Placement "44 2 3 -1 -1 -8 -31 234 1307 234 853")
+        (Scroll "812 0")
+        (Zoom "148")
         (Occurrence "/"))
       (Path
-         "G:\SVN\HARD_GROUP\手持调试设备\TRUNK\HY_IP5328_TEST_V10A\SCH\HY_IP5328_TEST_V10A.DSN")
+         "H:\GITHUB\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10A\SCH\HY_IP5328_TEST_V10A.DSN")
       (Schematic "MAIN")
       (Page "02 IP5328P")))
   (PartMRUSelector
