@@ -149,8 +149,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 671")
-        (Scroll "-185 -9")
-        (Zoom "74")
+        (Scroll "649 0")
+        (Zoom "148")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBED-TOOLS\HARDWARE\CH340E_TEST_V10\SCH\CH340E_TEST_V10.DSN")

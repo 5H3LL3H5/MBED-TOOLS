@@ -121,9 +121,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" ".\cp2105_test_v10a.dsn")
+      (Path "Design Resources" ".\cp2105_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\cp2105_test_v10a.dsn"))
+      (Select "Design Resources" ".\cp2105_test_v10a.dsn" "MAIN" "02 USB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -133,11 +135,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1345 52 667")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1151 78 697")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "H:\MBED-TOOLS\HARDWARE\CP2105_TEST_V10A\SCH\CP2105_TEST_V10A.DSN")
+      (Path
+         "H:\GITHUB\MBED-TOOLS\HARDWARE\CP2105_TEST_V10A\SCH\CP2105_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "01 COVER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1177 104 723")
+        (Scroll "334 10")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path
+         "H:\GITHUB\MBED-TOOLS\HARDWARE\CP2105_TEST_V10A\SCH\CP2105_TEST_V10A.DSN")
       (Schematic "MAIN")
       (Page "02 USB")))
   (PartMRUSelector

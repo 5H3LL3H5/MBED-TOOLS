@@ -211,8 +211,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 104 1430 104 719")
-        (Scroll "0 2291")
-        (Zoom "296")
+        (Scroll "212 2111")
+        (Zoom "256")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBED-TOOLS\HARDWARE\RM08K_TEST_V10\SCH\RM08K_TEST_V10.DSN")

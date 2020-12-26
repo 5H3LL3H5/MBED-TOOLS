@@ -1,0 +1,36 @@
+{ Using PSTWRITER 17.2.0 d001Oct-30-2020 at 17:31:58 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.6" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "DMB".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.31" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "VING".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.7" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "DPB".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.35" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "VOUT2G".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.36" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "VOUT1G".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.38" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "DMA1".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.40" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "DMA2".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.1" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "DPA2".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.39" ignored for U1: MAIN, 02 CHARGER (233.68, 50.80). Connecting pin to net "DPA1".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "MH1.1" ignored for MH1: MAIN, 02 CHARGER (231.14, 129.54). Connecting pin to net "VCC_VBAT".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "MH5.1" ignored for MH5: MAIN, 02 CHARGER (261.62, 170.18). Connecting pin to net "GND".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "MH4.1" ignored for MH4: MAIN, 02 CHARGER (233.68, 182.88). Connecting pin to net "GND".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "MH6.1" ignored for MH6: MAIN, 02 CHARGER (261.62, 182.88). Connecting pin to net "GND".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "MH3.1" ignored for MH3: MAIN, 02 CHARGER (233.68, 170.18). Connecting pin to net "GND".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "MH2.1" ignored for MH2: MAIN, 02 CHARGER (231.14, 144.78). Connecting pin to net "GND".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "Q1.1" ignored for Q1: MAIN, 02 CHARGER (76.20, 50.80). Connecting pin to net "VCC_VMID".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "Q2.1" ignored for Q2: MAIN, 02 CHARGER (63.50, 104.14). Connecting pin to net "VCC_VMID".
+#18 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L10040_SMMS1040-1R5M" is renamed to "IND_BEAD_0805_600OHM_1_L10040_S".
+#19 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_0_DFN3X3_WSD30L40DN" is renamed to "SI4497DY-T1-GE3_0_DFN3X3_WSD30L".
+#20 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_2_DFN5X6_WSD30140DN" is renamed to "SI4497DY-T1-GE3_2_DFN5X6_WSD301".
+#21 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_SW-B3F4055_B3F-4055" is renamed to "SWITCH-SPST-4P_SW-B3F4055_B3F-4".
+#22 WARNING(ORCAP-36006): Part Name "IP5328P_0_QFN40-6X6X0R5-4R6X4R6_IP5328P" is renamed to "IP5328P_0_QFN40-6X6X0R5-4R6X4R6".
+#23 WARNING(ORCAP-36006): Part Name "TYPE-C_16P_TYPE-C-31-M-12_TYPE-C-31-M-12" is renamed to "TYPE-C_16P_TYPE-C-31-M-12_TYPE-".
+#24 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_USB-MICRO" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_USB-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10B\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_IP5328_TEST_V10B\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

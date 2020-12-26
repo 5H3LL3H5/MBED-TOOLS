@@ -1,0 +1,14 @@
+{ Using PSTWRITER 17.2.0 d001Dec-17-2020 at 16:15:41 }
+
+#1 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#2 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_USB-MICRO" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_USB-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_BQ24090_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_BQ24090_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_BQ24090_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_BQ24090_V10\SCH\allegro/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,27 @@
+{ Using PSTWRITER 17.2.0 d001Dec-16-2020 at 15:06:12 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.16" ignored for U3: MAIN, 03 HUB (226.06, 109.22). Connecting pin to net "N17411939".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U6.16" ignored for U6: MAIN, 03 HUB (345.44, 205.74). Connecting pin to net "N17418513".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U5.16" ignored for U5: MAIN, 03 HUB (226.06, 205.74). Connecting pin to net "N17418508".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "USB1.10" ignored for USB1: MAIN, 03 HUB (304.80, 17.78). Connecting pin to net "N17394640".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.16" ignored for U4: MAIN, 03 HUB (345.44, 109.22). Connecting pin to net "N17417225".
+#6 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-2P54-Z" is renamed to "CONN RCPT 4_CN1X4-2P54-Z_CN1X4-".
+#7 WARNING(ORCAP-36006): Part Name "744822222_0_ACM2012_ACM2012-900-2P-T002" is renamed to "744822222_0_ACM2012_ACM2012-900".
+#8 WARNING(ORCAP-36042): Pin "VDDA33" is renamed to "VDDA33#29" as visible power pin of same name already exists in Package USB2514B_QFN36_MIN , U1: MAIN, 03 HUB (55.88, 10.16).
+#9 WARNING(ORCAP-36042): Pin "VDDA33" is renamed to "VDDA33#5" as visible power pin of same name already exists in Package USB2514B_QFN36_MIN , U1: MAIN, 03 HUB (55.88, 10.16).
+#10 WARNING(ORCAP-36042): Pin "VDDA33" is renamed to "VDDA33#10" as visible power pin of same name already exists in Package USB2514B_QFN36_MIN , U1: MAIN, 03 HUB (55.88, 10.16).
+#11 WARNING(ORCAP-36006): Part Name "TPD4E1U06DBVR_SOT363_TPD4E1U06DCKR" is renamed to "TPD4E1U06DBVR_SOT363_TPD4E1U06D".
+#12 WARNING(ORCAP-36006): Part Name "CP2104-F03-GM_QFN24-4X4X0R5-2R7X2R7_CP2104-F03-GM" is renamed to "CP2104-F03-GM_QFN24-4X4X0R5-2R7".
+#13 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_NX3225GA-24MHZ" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_NX322".
+#14 WARNING(ORCAP-36006): Part Name "SPX3819M5-L-1-2_SOT23-5_SPX3819M5-L-3-3/TR" is renamed to "SPX3819M5-L-1-2_SOT23-5_SPX3819".
+#15 WARNING(ORCAP-36006): Part Name "TYPE-C_16P_TYPE-C-31-M-12_TYPE-C-31-M-12" is renamed to "TYPE-C_16P_TYPE-C-31-M-12_TYPE-".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\allegro/pstchip.dat
+
+Loading... H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\allegro/pstxnet.dat
+packaging the design view...

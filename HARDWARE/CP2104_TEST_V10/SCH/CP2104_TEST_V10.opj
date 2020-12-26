@@ -119,9 +119,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" ".\cp2104_test_v10.dsn")
+      (Path "Design Resources" ".\cp2104_test_v10.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\cp2104_test_v10.dsn"))
+      (Select "Design Resources" ".\cp2104_test_v10.dsn" "MAIN"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -143,8 +145,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 182 1403 182 801")
-        (Scroll "-160 0")
-        (Zoom "77")
+        (Scroll "452 0")
+        (Zoom "154")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBED-TOOLS\HARDWARE\CP2104_TEST_V10\SCH\CP2104_TEST_V10.DSN")
