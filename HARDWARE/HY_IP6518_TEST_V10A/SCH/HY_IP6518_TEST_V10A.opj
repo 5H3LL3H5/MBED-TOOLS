@@ -120,24 +120,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" ".\hy_ip6518_test_v10a.dsn")
+      (Path "Design Resources" ".\hy_ip6518_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources" ".\hy_ip6518_test_v10a.dsn" "MAIN" "02 IP6518"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 955"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1423 130 745")
-        (Scroll "4345 3199")
-        (Zoom "496")
+        (Placement "44 2 3 -1 -1 -8 -31 156 936 156 775")
+        (Scroll "1006 0")
+        (Zoom "124")
         (Occurrence "/"))
       (Path
-         "H:\MBED-TOOLS\HARDWARE\HY_IP6518_TEST_V10A\SCH\HY_IP6518_TEST_V10A.DSN")
+         "H:\GITHUB\MBED-TOOLS\HARDWARE\HY_IP6518_TEST_V10A\SCH\HY_IP6518_TEST_V10A.DSN")
       (Schematic "MAIN")
       (Page "02 IP6518")))
   (PartMRUSelector

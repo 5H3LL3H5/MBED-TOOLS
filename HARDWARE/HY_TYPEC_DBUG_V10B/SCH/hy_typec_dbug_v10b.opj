@@ -121,7 +121,7 @@
       (Path "Design Resources")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"))
+      (Select "Design Resources" ".\hy_typec_dbug_v10b.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -143,8 +143,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 671")
-        (Scroll "1110 848")
-        (Zoom "148")
+        (Scroll "3087 1584")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "H:\GITHUB\MBED-TOOLS\HARDWARE\HY_TYPEC_DBUG_V10B\SCH\HY_TYPEC_DBUG_V10B.DSN")

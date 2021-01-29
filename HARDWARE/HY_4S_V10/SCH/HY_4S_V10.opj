@@ -115,13 +115,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\hy_4s_v10.dsn")
-      (Path "Design Resources"
-         "H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\hy_4s_v10.dsn" "MAIN")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\hy_4s_v10.dsn"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -132,8 +127,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 78 1408 78 697")
-        (Scroll "0 848")
-        (Zoom "148")
+        (Scroll "2450 0")
+        (Zoom "248")
         (Occurrence "/"))
       (Path "H:\GITHUB\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\HY_4S_V10.DSN")
       (Schematic "MAIN")

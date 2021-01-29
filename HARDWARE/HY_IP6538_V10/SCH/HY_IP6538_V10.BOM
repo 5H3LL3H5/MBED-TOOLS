@@ -1,0 +1,32 @@
+HY_TYPEC_CHRG_V10  Revised: Thursday, January 28, 2021
+01 COVER          Revision: V10
+
+
+
+
+
+
+
+Bill Of Materials        January 28,2021      19:20:07	Page1
+
+Item	ERPcode	Part	Quantity	Reference	PCB Footprint	Description	Corporation	Type	Note
+______________________________________________
+
+1		100nF_50V	4	C1,C4,C6,C12	C0603				
+2		100uF_50V	2	C2,C10	CAP-3R0-8X12				
+3		100uF_25V	6	C3,C5,C7,C8,C11,C13	CAP-2R5-6R3X7				
+4		1nF_50V	1	C9	C0603				
+5		DC005	1	DC1	DC005				
+6		LED_GREEN	1	D1	LED0805				
+7		V10P10	1	D2	TO-277A				
+8		0469005.WR	1	F1	FUSE1206				
+9		SMMS1040-100M	1	L1	L10040				
+10		Hold-M3/NI	4	MH1,MH2,MH3,MH4	HOLD6R90X3R40				NI
+11		MarkPoint/NI	4	MP1,MP2,MP3,MP4	MARKPOINT_R3				NI
+12		WSD30140DN	2	Q1,Q2	DFN5X6				
+13		0R01	2	R1,R4	R1206				
+14		2R	1	R2	R2512				
+15		4.7K	1	R3	R0603				
+16		USB-A	1	USB1	USB-A-SMD				NI
+17		TYPE-C-31-M-12	1	USB2	TYPE-C-31-M-12				
+18		IP6538	1	U1	QFN32-5x5X0R5-3R4X3R4				

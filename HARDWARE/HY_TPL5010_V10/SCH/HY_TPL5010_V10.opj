@@ -34,7 +34,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "H:\github\MBED-TOOLS\HARDWARE\HY_4S_V10\SCH\HY_4S_V10.BOM")
+       "H:\github\MBED-TOOLS\HARDWARE\HY_TPL5010_V10\SCH\HY_TPL5010_V10.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{ERPcode}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
@@ -112,18 +112,18 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\hy_tpl5010_v10.bom"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\github\MBED-TOOLS\HARDWARE\HY_TPL5010_V10\SCH\hy_tpl5010_v10.dsn")
-      (Path "Design Resources"
-         "H:\github\MBED-TOOLS\HARDWARE\HY_TPL5010_V10\SCH\hy_tpl5010_v10.dsn"
-         "MAIN")
+      (Path "Design Resources" ".\hy_tpl5010_v10.dsn")
+      (Path "Design Resources" ".\hy_tpl5010_v10.dsn" "MAIN")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\hy_tpl5010_v10.dsn" "MAIN" "03 TPL5010"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -134,7 +134,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 78 1404 78 693")
-        (Scroll "626 656")
+        (Scroll "0 848")
         (Zoom "148")
         (Occurrence "/"))
       (Path
